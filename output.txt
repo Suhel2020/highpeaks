@@ -1,0 +1,3 @@
+Number of Employees4
+Here the goodies that are selected for distribution are:Fitbit Plus: 7980Microwave Oven: 9800Alexa: 9999Digital Camera: 11101
+And the difference between the chosen goodies with highest price and the lowest price is:3121
